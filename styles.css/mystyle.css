@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(4, 5, 5);
+  color: white;
+}
+.navbar {
+  background-color: rgb(190, 49, 68);
+}
+
+.nav-link {
+  color: rgb(234, 236, 238);
+  text-align: right;
+  text-emphasis: none;
+  /* font-family: 'Courier New', Courier, monospace; */
+}
+.mybuttonstyle {
+  background-color: rgb(0, 105, 217);
+  color: white;
+}
+h1 {
+  text-align: center;
+  text-emphasis: white;
+}
+#myproject {
+  text-decoration: underline;
+  color: white;
+}
+#workbg {
+  background-color: rgb(69, 86, 125);
+  color: rgb(5, 5, 5);
+  /* width: 100em; */
+}
+#welcome {
+  background-color: black;
+  margin: auto;
+  color: white;
+  font-size: large;
+  text-align: justify;
+}
+#contactbg {
+  background: rgb(48, 56, 65);
+  color: white;
+}
